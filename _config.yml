@@ -1,0 +1,9 @@
+name: Team WALK
+author: "Edward Nusinovich"
+description: Gemstone
+baseurl: ''
+
+port: 4000
+gems: [jekyll-paginate]
+paginate: 10
+
