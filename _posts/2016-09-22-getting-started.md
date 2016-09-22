@@ -3,7 +3,7 @@ title: Training
 layout: post
 ---
 
-![]({{ site.baseurl }}/assets/images/training_blog_photo.jpg
+![Hard at Work]({{ site.baseurl }}/assets/images/training_blog_photo.jpg)
 {: .image.featured}
 
 We have gotten started with printing! Our team is currently:
