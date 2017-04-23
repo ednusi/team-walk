@@ -1,7 +1,7 @@
 name: Team WALK
 author: "Edward Nusinovich"
 description: Gemstone
-baseurl: 'https://ednusi.github.io/team-walk/'
+baseurl: 'http://gemswalk.com'
 [//]: # (baseurltemporary: 'https://ednusi.github.io/team-walk/')
 port: 4000
 gems: [jekyll-paginate]
