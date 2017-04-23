@@ -6,4 +6,5 @@ baseurl: 'https://ednusi.github.io/team-walk/'
 port: 4000
 gems: [jekyll-paginate]
 paginate: 10
+excerpt_separator: <!--more-->
 
